@@ -1,0 +1,5 @@
+﻿  ConsoleApplication2.cpp
+  obvodobsah.cpp
+C:\Users\danie\source\repos\obvodobsah\ConsoleApplication2\obvodobsah.cpp(49,27): warning C4244: return: double se převádí na float; může dojít ke ztrátě dat.
+  Generování kódu...
+  ConsoleApplication2.vcxproj -> C:\Users\danie\source\repos\obvodobsah\Debug\ConsoleApplication2.exe
