@@ -1,8 +1,0 @@
-﻿  Account.cpp
-  Bank.cpp
-  Banka.cpp
-  CreditAccount.cpp
-  PartnerAccount.cpp
-  Generování kódu...
-C:\Users\danie\source\repos\Banka\Banka\CreditAccount.cpp(28): warning C4717: CreditAccount::Withdraw: Rekurzivní pro všechny cesty ovládacích prvků; funkce způsobí za běhu přetečení zásobníku.
-  Banka.vcxproj -> C:\Users\danie\source\repos\Banka\Debug\Banka.exe
