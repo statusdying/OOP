@@ -1,0 +1,9 @@
+﻿  ConsoleApplication2.cpp
+  obvodobsah.cpp
+C:\Users\danie\source\repos\virtualobvodobsah\ConsoleApplication2\obvodobsah.cpp(8,10): warning C4244: =: int se převádí na float; může dojít ke ztrátě dat.
+C:\Users\danie\source\repos\virtualobvodobsah\ConsoleApplication2\obvodobsah.cpp(13,11): warning C4244: =: int se převádí na float; může dojít ke ztrátě dat.
+C:\Users\danie\source\repos\virtualobvodobsah\ConsoleApplication2\obvodobsah.cpp(19,16): warning C4244: return: float se převádí na int; může dojít ke ztrátě dat.
+C:\Users\danie\source\repos\virtualobvodobsah\ConsoleApplication2\obvodobsah.cpp(24,25): warning C4244: return: float se převádí na int; může dojít ke ztrátě dat.
+C:\Users\danie\source\repos\virtualobvodobsah\ConsoleApplication2\obvodobsah.cpp(31,26): warning C4244: return: float se převádí na int; může dojít ke ztrátě dat.
+  Generování kódu...
+  ConsoleApplication2.vcxproj -> C:\Users\danie\source\repos\virtualobvodobsah\Debug\ConsoleApplication2.exe
